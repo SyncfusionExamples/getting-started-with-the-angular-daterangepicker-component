@@ -1,9 +1,8 @@
 # Getting Started with the Angular DateRangePicker Component
 
-A quick-start project that helps you to create a new Angular application using the Angular CLI toolchain and add the Syncfusion DateRangePicker. This project contains simple code customizations, as well as some important features like setting specific date range values, format, placeholder, range restrictions, day span, and month range picker.
+A quick-start Angular project that shows how to work with the Angular DateRangePicker component of Syncfusion. This project contains simple code customizations, as well as some important features like setting specific date range values, format, placeholder, range restrictions, day span, and month range picker.
 
 Documentation: https://ej2.syncfusion.com/angular/documentation/daterangepicker/getting-started/
-
 Online examples: https://ej2.syncfusion.com/angular/demos/#/bootstrap5/daterangepicker/default
 
 ## Project prerequisites
