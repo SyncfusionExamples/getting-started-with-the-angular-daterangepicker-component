@@ -21,7 +21,7 @@ To run this application, you need to clone the `getting-started-with-the-angular
 * [Format](https://ej2.syncfusion.com/angular/demos/#/material/daterangepicker/date-format?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples) - The control’s input value can be custom formatted apart from the default culture’s specific date range format.
 * [Globalization](https://ej2.syncfusion.com/angular/documentation/daterangepicker/globalization/#globalization?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples) - Supports globalization (internationalization and localization) to translate the names of months, days, and button text to any supported language.
 
-# Related links
+## Related links
 [Learn More about Angular DateRangePicker](https://www.syncfusion.com/angular-components/angular-daterangepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
