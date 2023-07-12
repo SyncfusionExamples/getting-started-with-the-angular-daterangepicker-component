@@ -27,12 +27,12 @@ To run this application, you need to clone the `getting-started-with-the-angular
 
 ## Related links
 [Learn More about Angular DateRangePicker](https://www.syncfusion.com/angular-components/angular-daterangepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
-[Download Free Trial](https://www.syncfusion.com/downloads/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
-[Pricing](https://www.syncfusion.com/sales/products/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads/angular/confirm?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [Documentation](https://ej2.syncfusion.com/angular/documentation/daterangepicker/getting-started/?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [View Demos](https://ej2.syncfusion.com/angular/demos/#/material/daterangepicker/default?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/angular-components?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
-[Knowledge Base](https://www.syncfusion.com/kb/angular-js2/daterangepicker?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
+[Knowledge Base](https://support.syncfusion.com/kb/web/section/683?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)<br/><br/>
 [Suggest a feature](https://www.syncfusion.com/feedback/angular?utm_source=github&utm_medium=listing&utm_campaign=angular-daterangepicker-github-samples)
 
 ## About Syncfusion Angular UI Components
